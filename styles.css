@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://www.scarymommy.com/wp-content/uploads/2021/06/04/friends-central-perk-art.jpg");
+}
+h1 {
+    color: black;
+    text-align: center;
+    color: white;
+}
+p, ol{
+    color: white;
+    font-size: 25px;
+}
+.final {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+img {
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: dashed;
+}
